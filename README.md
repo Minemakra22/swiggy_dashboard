@@ -39,11 +39,9 @@ I'm excited to share my latest Power BI dashboard built around Swiggy – one of
 •	Tirupati city accounted for the highest order amount with 43 million.
 
 📈 Dashboard:
-<img width="1000" height="250" alt="Screenshot 2025-08-03 114950" src="https://github.com/user-attachments/assets/e325906a-89f9-4e01-b262-92b2a24af0fb" />
-<img width="1248" height="700" alt="Screenshot 2025-08-03 114931" src="https://github.com/user-attachments/assets/b6666b2d-6ac7-4dd1-9f06-fd96671b7bd4" />
-<img width="1239" height="699" alt="Screenshot 2025-08-03 114912" src="https://github.com/user-attachments/assets/609f6e26-f614-4260-88d2-3a8bebbf7d47" />
+
 <img width="1247" height="699" alt="Screenshot 2025-08-03 114853" src="https://github.com/user-attachments/assets/26c4bb76-b8d6-490c-85a0-d59da08925b7" />
-<img width="1240" height="694" alt="Screenshot 2025-08-03 115006" src="https://github.com/user-attachments/assets/26e841bd-0e78-4277-b1bd-b086cea970b4" />
+
 
 
 💬 Why This Matters:
