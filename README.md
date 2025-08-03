@@ -4,10 +4,10 @@ I'm excited to share my latest Power BI dashboard built around Swiggy – one of
 
 
 🛠️ Tools & Skills Used:
- ✔️ Power BI (Data Modeling, DAX, Filters, Slicers)
- ✔️ Dashboard Design & UX Thinking
- ✔️ Business KPIs Interpretation
- ✔️ Data Storytelling & Insight Extraction
+✔️ Power BI (Data Modeling, DAX, Filters, Slicers)
+✔️ Dashboard Design & UX Thinking
+✔️ Business KPIs Interpretation
+✔️ Data Storytelling & Insight Extraction
  
 🏗️ structure:
   swiggy dashboard
